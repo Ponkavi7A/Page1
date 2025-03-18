@@ -1,5 +1,5 @@
 .bg{
-    background-image: url(/Assignment010/bg.jpg);
+    background-image: url(./bg.jpg);
     background-attachment: scroll;
     background-repeat:no-repeat;
     background-size: cover;
@@ -7,7 +7,7 @@
 .div1{
     height: 700px;
     width: 1200px;
-    background: url(/Assignment010/banner.jpg);
+    background: URL(./banner.jpg);
     background-size: cover;
     margin-top: 200px;
 }
